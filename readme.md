@@ -5,18 +5,15 @@
 ## Dataset
 
 >  The report will gather & analyze flights of 2020 Jan which is (607346) observations by resolve the following questions:-
-what is the rate of delayed and cancelled flighes?
-what are the best airlines in terms of delayed and cancelled flighes?
-what are the best flights in terms of delayed and cancelled flighes?
+*what is the rate of delayed and cancelled flighes?
+*what are the best airlines in terms of delayed and cancelled flighes?
+*what are the best flights in terms of delayed and cancelled flighes?
 The Dataset contains flights data in the United States, including carriers, arrival and departure delays in 2020 Jan. https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=
-The data set has 45 features
 
 
 ## Summary of Findings
 
-> *  Delayed Flight departures and Arrivals distributed in the whole US 1.14% Flights are Cancelled
-*  Airlines to Avoice Delay & Cancellation
-*  Flights Time to Avoice Delay & Cancellation
+> *  Delayed Flight departures and Arrivals distributed in the whole US 1.14% Flights are Cancelled *  Airlines to Avoice Delay & Cancellation *  Flights Time to Avoice Delay & Cancellation
 
 
 ## Key Insights for Presentation
@@ -30,4 +27,4 @@ Endeavor Air(9E), Republic Airways(YX) and Frontier Airline(F9)
 
 Envoy Air(MQ), Infinity Air and Mesa Airlines(YV)
 
-* Morning flights are cancelled more than Evening flights, while Evening flights are more delayed than Morning flights.
+#### Morning flights are cancelled more than Evening flights, while Evening flights are more delayed than Morning flights.
